@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pv-emulator")(type "KiCad")(uri "${KIPRJMOD}/pv-emulator.pretty")(options "")(descr ""))
+)

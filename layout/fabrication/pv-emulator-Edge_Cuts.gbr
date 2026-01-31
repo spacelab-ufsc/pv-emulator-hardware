@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7-1.fc43app1*%
+%TF.CreationDate,2026-01-21T16:55:52-03:00*%
+%TF.ProjectId,pv-emulator,70762d65-6d75-46c6-9174-6f722e6b6963,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7-1.fc43app1) date 2026-01-21 16:55:52*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X66440000Y-28070000D02*
+X228060000Y-28070000D01*
+X228060000Y-153970000D01*
+X66440000Y-153970000D01*
+X66440000Y-28070000D01*
+M02*
